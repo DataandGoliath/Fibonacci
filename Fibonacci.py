@@ -3,7 +3,9 @@ a = 1
 b = 1
 c = 2
 print(1)
+t.sleep(0.5)
 print(1)
+t.sleep(0.5)
 while True:
   c=a+b
   print(c)
